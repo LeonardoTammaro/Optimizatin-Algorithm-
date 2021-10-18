@@ -4,6 +4,8 @@ DEVELOPMENT OF AN OPTIMIZATION ALGORITHM FOR THE LOCATION OF WASTE RECOVERY PLAN
 
 
 •	Mathematical formulation of the optimization model 
+
 •	Establishment of the optimization algorithm settings
+
 •	Design and program a user-friendly tool to solve the optimization problem 
 
