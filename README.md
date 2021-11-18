@@ -1,7 +1,6 @@
 # Optimization-Algorithm-
-DEVELOPMENT OF AN OPTIMIZATION ALGORITHM FOR THE LOCATION OF WASTE RECOVERY PLANTS IN RURAL AREAS USING EXCEL MACROS:
 
-
+Objectives: 
 
 •	Mathematical formulation of the optimization model 
 
